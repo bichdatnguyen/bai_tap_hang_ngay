@@ -1,0 +1,19 @@
+A
+1) Sửa lại lỗi cú pháp: bool isA = (90 <= grade && grade <= 100);
+biến isA trả về 1 khi biến 90 <= grade <= 100 và trả về 0 trong các trường hợp còn lại
+2) Đoạn code trả về 0
+3) 
+4) 0 (false)
+5) chương trình vẫn chạy tuy nhiên sẽ không trả về gì cả
+6) 
++) Với int a = 27 * "three"; trình biên dịch báo lỗi
++) Với double x; cout << x; chương trình vẫn chạy và trả về giá trị bất kỳ của x
++) 
+7) 
+Output của đoạn code trên:
+0
+0.75
+0.75
+0.75
+8) Chương trình báo lỗi do khai báo hai biến trùng tên
+9) 
