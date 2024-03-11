@@ -8,7 +8,7 @@ struct Point
 
 void print(Point p)
 {
-    cout << p.x << " " << p.y << endl;
+    cout << "(" << p.x << ", " << p.y << ")" << endl;
 }
 
 int main()
