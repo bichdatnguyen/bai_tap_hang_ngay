@@ -1,6 +1,6 @@
 void swap(int* px, int* py) {
-	int c;
-	c = *px; 
+	int tmp;
+	tmp = *px; 
 	*px = *py; 
-	*py = c;
+	*py = tmp;
 }
