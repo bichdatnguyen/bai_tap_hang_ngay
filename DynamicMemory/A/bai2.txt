@@ -1,0 +1,7 @@
+ int* p = new int;
+ int* p2 = p;
+ *p = 10;
+ delete p; 
+*p2 = 100; 
+ cout << *p2;
+ delete p2; // sau khi xóa p thì p2 cũng sẽ không tồn tại, do đó dòng này giống như xóa một con trỏ không tồn tại
