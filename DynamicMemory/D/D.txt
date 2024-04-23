@@ -1,9 +1,9 @@
-1. iii
-2. iii
-3. ii
+1. iii (con trỏ gán bởi giá trị)
+2. iii (p[2] và p[1] có địa chỉ cạnh nhau)
+3. ii 
 4. iii
-5. ii
-6. iii
+5. ii (trong hàm print phải truyền một biến int, nhưng lại truyền một biến con trỏ)
+6. iii 
 7. iii
 8. iv
 9. ii
